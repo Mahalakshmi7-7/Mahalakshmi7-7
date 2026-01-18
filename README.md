@@ -21,22 +21,6 @@ micro-interactions, and clean aesthetics.
 
 ---
 
-### 🚀 UI/UX Projects (In Progress)
-- 🎧 Mood-Based Music Player UI (UX-driven concept)  
-- 🎛 Interactive Dashboard UI  
-- 🛍 Animated Product Landing Page  
-
-*(Built using only HTML, CSS, and JavaScript)*
-
----
-
-### 🌱 Currently Improving
-- UX case-study thinking
-- React basics
-- Advanced CSS & interaction design  
-
----
-
 ### 📫 Let’s Connect
 <a href="https://www.linkedin.com/in/maha-lakshmis772005" target="_blank">
   🔗 LinkedIn Profile
