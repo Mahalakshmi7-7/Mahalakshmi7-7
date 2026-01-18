@@ -12,11 +12,12 @@ micro-interactions, and clean aesthetics.
 ---
 
 ### 🎨 What I Do Best
-- UI/UX design thinking  
-- Wireframing & visual design concepts  
+- UI/UX design   
+- Wireframing & visual design concepts
+- Graphic design & visual story telling
 - CSS animations & transitions  
 - Interactive UI components using JavaScript  
-- Responsive, user-friendly layouts  
+  
 
 ---
 
