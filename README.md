@@ -57,6 +57,3 @@ visual hierarchy, and creative graphic design for clean, engaging interfaces.
 - 💼 LinkedIn: https://www.linkedin.com/in/maha-lakshmis772005
 - 💻 GitHub: https://github.com/mahalakshmi7-7  
 
-<p align="center">
-✨ Designing experiences, not just interfaces ✨
-</p>
